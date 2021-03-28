@@ -56,7 +56,6 @@ Pensando em fazer mais do que apenas distrair a garotada, nossas músicas falam 
 <title>[COLOR cyan][B]●[/B][/COLOR][COLOR white][B] GALINHA PINTADINHA [/B][/COLOR]</title>
 <link>https://abre.ai/coUQ$nome=[COLOR orange][B] 1 [/B][/COLOR]</link>
 <link>https://abre.ai/crgIQ$nome=[COLOR orange][B] 2 [/B][/COLOR]</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpoW9xiINn3RfQGA7kBCtNzV-LfJyGdjv/?page=0</jsonrpc>
 <thumbnail>https://tinyurl.com/vzujgtf</thumbnail>
 <fanart>https://tinyurl.com/vzujgtf</fanart>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
@@ -69,8 +68,8 @@ Pensando em fazer mais do que apenas distrair a garotada, nossas músicas falam 
 
 <item>
 <title>[COLOR cyan][B]●[/B][/COLOR][COLOR white][B] GALINHA PINTADINHA MINI [/B][/COLOR]</title>
-<link>https://abre.ai/coUQ$nome=[COLOR orange][B] 1 [/B][/COLOR]</link>
-<link>https://abre.ai/coUQ$nome=[COLOR orange][B] 2 [/B][/COLOR]</link>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpoW9xiINn3TrKY0XgLx-yf7heombneau/?page=0</jsonrpc>
 <thumbnail>https://abre.ai/crgo</thumbnail>
 <fanart>https://abre.ai/crgm</fanart>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
