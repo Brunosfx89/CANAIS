@@ -1,6 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="Universo DC" tvg-logo="https://image.tmdb.org/t/p/w185/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",Coringa
-https://x.filmes.click/m0/d/495764-720p.mp4
-
-#EXTINF:-1 group-title="Universo DC" tvg-logo="https://image.tmdb.org/t/p/w185/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",Coringa
-https://s10.videos.sh/hls/epheqwszrgy5p6nojzbqnos4laakypubqdmd4e2hse57qza4el2mnagmi6wq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/dvEaP2L1xCAeDqW8jBCBG4VvvvJ_big.jpg" group-title="Filmes | Acao",Chamas Da Vinganca
+http://b5.vc:80/movie/BRSJC/997076503/100946.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/vU3ir5iniBfK3neM2UFTeFSV4ye_big.jpg" group-title="Filmes | Acao",Sangue Jovem
+http://b5.vc:80/movie/BRSJC/997076503/100945.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/fPW8Vs6WiXDpQGww1W3I3hjN74s_big.jpg" group-title="Filmes | Comedia",Queime Depois de Ler
+http://b5.vc:80/movie/BRSJC/997076503/100944.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/3PFEWKFqfZZoxDpJNceL6XKzsGk_big.jpg" group-title="Filmes | Lancamentos",Fuja
+http://b5.vc:80/movie/BRSJC/997076503/100943.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/t5pUkjo4dgTR1cYzunHi99AbJ2V_big.jpg" group-title="Filmes | Terror",Espantalho
+http://b5.vc:80/movie/BRSJC/997076503/100942.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/h2xj3S7VotlrKAm61WfsfFLP1fX_big.jpg" group-title="Filmes | Drama",Cheetah Uma Aventura na Africa
+http://b5.vc:80/movie/BRSJC/997076503/100941.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/rHfYTIPjSiameKP8zJCQscEJ5wo_big.jpg" group-title="Filmes | Lancamentos",Apenas Diga Sim
+http://b5.vc:80/movie/BRSJC/997076503/100940.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/drlYj3raAeVGJfFZsw7Tr7UfSkV_big.jpg" group-title="Filmes | Drama",A Arvore da Vida
+http://b5.vc:80/movie/BRSJC/997076503/100939.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/AhRSv4npEaE8ZvuJh4CmQpsXDZg_big.jpg" group-title="Filmes | Legendados",Way Down [L]
+http://b5.vc:80/movie/BRSJC/997076503/100924.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/b82a4qXDpACqK1v48c8zSEZZeXO_big.jpg" group-title="Filmes | Romance",Ritmo do Amor
+http://b5.vc:80/movie/BRSJC/997076503/100923.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/hbsvefsRnVG4bouEdMN4rJVPW0s_big.jpg" group-title="Filmes | Lancamentos",Os Segredos De Madame Claude
