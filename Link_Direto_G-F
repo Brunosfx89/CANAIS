@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6GY91MCrmUdMeUIxbw9JXvblES.jpg" group-title ="FILMES", ANJOS DA NOITE
 https://www.googleapis.com/drive/v3/files/1JCboiwxDJ1cBjNzwD-hCTXa8OjHt-uTT?alt=media&key=AIzaSyDI4eulC4u0tGDWwTVe5dYHzFxMMSaqdEQ
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6GY91MCrmUdMeUIxbw9JXvblES.jpg" description="teste para descritor" group-title ="FILMES", ANJOS DA NOITE
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6GY91MCrmUdMeUIxbw9JXvblES.jpg" group-description="teste para descritor" group-title ="FILMES", ANJOS DA NOITE
 https://www.googleapis.com/drive/v3/files/1JCboiwxDJ1cBjNzwD-hCTXa8OjHt-uTT?alt=media&key=AIzaSyDI4eulC4u0tGDWwTVe5dYHzFxMMSaqdEQ
