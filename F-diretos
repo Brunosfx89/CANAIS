@@ -65,7 +65,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg" , DE ENCONTRO COM A VIDA
-https://drive.google.com/file/d/1dkm1CdWhCxv5wUGkxHp4-zpybrBkBdsl/view
+https://www.googleapis.com/drive/v3/files/1RSdKepa45ACl095-LnzIbgym0ETT5Q8o?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE
 
 #EXTINF:-1 tvg-id="" tvg-name="5x Comédia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQMmPFFHkANVNZ3unhoNLxRdt3.jpg" group-title="SÉRIES AMAZON PRIME",5x Comédia S01 E01
 http://suatv.fun:80/series/478596909817/053303881996/335328.mp4
