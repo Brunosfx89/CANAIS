@@ -66,3 +66,6 @@
  
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg" , DE ENCONTRO COM A VIDA
 https://player.filmeshdx.net/stream/1080/ZIVRrELKDhq00em/__001
+
+#EXTINF: -1 tvg-logo = "https://d30y9cdsu7xlg0.cloudfront.net/png/107543-200.png" grupo-título = "EXEMPLO", pltv-subgrupo = "EXEMPLO", EXEMPLO 1
+https://streamable.com/1vglc
