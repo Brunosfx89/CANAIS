@@ -67,5 +67,6 @@
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msnN0oTm9AAGuHfdOjdkUGpekgG.jpg" , DE ENCONTRO COM A VIDA
 https://player.filmeshdx.net/stream/1080/ZIVRrELKDhq00em/__001
 
-#EXTINF:-1 tvg-logo="https://d30y9cdsu7xlg0.cloudfront.net/png/107543-200.png" grupo-título = "EXEMPLO", pltv-subgrupo = "EXEMPLO", EXEMPLO 1
-https://streamable.com/1vglc
+#EXTINF:-1 tvg-id="" tvg-name="5x Comédia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQMmPFFHkANVNZ3unhoNLxRdt3.jpg" group-title="SÉRIES AMAZON PRIME",5x Comédia S01 E01
+http://suatv.fun:80/series/478596909817/053303881996/335328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="5x Comédia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19NCyVTZtPp42olpjLQ2U5toufh.jpg" group-title="SÉRIES AMAZON PRIME",5x Comédia S01 E02
