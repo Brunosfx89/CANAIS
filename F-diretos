@@ -62,10 +62,7 @@
 [COLOR red][B]SINOPSE:[/B][/COLOR][COLOR white][B] O Hobbit é uma série de três filmes de fantasia épica e de aventura dirigido, coescrito e produzido por Peter Jackson e baseado no livro The Hobbit de J. R. R. Tolkien publicado em 1937. Os filmes são, por subtítulo: Uma Jornada Inesperada, A Desolação de Smaug e A Batalha dos Cinco Exércitos. [/B][/COLOR]</info>
 </item>
 
-<item>
-<title>[COLOR yellow][B]MEU MALVADO FAVORITO[/B][/COLOR][COLOR lawngreen][B] 3D[/B][/COLOR]</title>
-<link>https://drive.google.com/open?id=1rUrOY372SdTLrFobPHw885UFn14FAENG</link>
-<thumbnail>https://http2.mlstatic.com/apostila-digital-meu-malvado-favorito-D_NQ_NP_934411-MLB20526540438_122015-F.jpg</thumbnail>
-<fanart>https://virgobrasil.com.br/wp-content/uploads/2017/08/meumalvado-bcac1mm_ne54.jpg</fanart>
-<info>A pirâmide de Gizé foi roubada, sendo substituída por uma imensa réplica a gás. O feito é considerado o roubo do século, o que mexe com o orgulho de Gru (Steve Carell). Desejando realizar algo ainda mais impressionante, ele planeja o roubo da Lua. Para tanto conta com a ajuda dos mínions, seres amarelados que trabalham como seus ajudantes, e do dr. Nefario (Russell Brand), um cientista. Só que para realizar o roubo terá que tomar de Vetor (Jason Segel), o ladrão da pirâmide, um raio que consegue diminuir o tamanho de tudo que atinge. Sem conseguir invadir a fortaleza de Vetor, Gru encontra o plano perfeito quando vê as três órfãs Margo (Miranda Cosgrove), Agnes (Elsie Fisher) e Edith (Dana Gaier) entrarem no local para vender biscoitos. Ele então vai ao orfanato e resolve adotá-las. Só não esperava que, aos poucos, fosse se afeiçoar às irmãs.</info>
-</item>
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/////uneNYyni8wSflliNVOrz7VOnMHu.jpg" , DE ENCONTRO COM A VIDA
+https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/DENCTROCMAVDA.mp4|Referer=http://www.redecanais.link/
