@@ -62,8 +62,9 @@
 [COLOR red][B]SINOPSE:[/B][/COLOR][COLOR white][B] O Hobbit é uma série de três filmes de fantasia épica e de aventura dirigido, coescrito e produzido por Peter Jackson e baseado no livro The Hobbit de J. R. R. Tolkien publicado em 1937. Os filmes são, por subtítulo: Uma Jornada Inesperada, A Desolação de Smaug e A Batalha dos Cinco Exércitos. [/B][/COLOR]</info>
 </item>
 
+
+
 #EXTM3U
-#EXT-X-TARGETDURATION:15
-#EXT-X-DISCONTINUITY
-#EXTINF:10,
+ 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" , O Hobbit: Uma Jornada Inesperada (2012)
 https://v-jp.terabox.com/video/netdisk-videotran-japan/63a4225741c813af04b3129759bf95bf_1073_1_ts/eb227a9de9acaa0e0c0b9304f2be7634?ts_size=15149792&app_id=250528&ccn=BR&csl=0&dp-logid=149698258791039621&fn=Mix_Desenhos.mp4&fsid=240892618785572&idc_c=1&iv=2&logid=149698258791039621&ouk=4398309453132&r=15699394&size=120076831&sta_cs=20&sta_dt=video&sta_dx=114&time=1631491706&to=gdj&tot=ctkc7&uo=any&uva=357167382&vuk=4398309453132&etag=eb227a9de9acaa0e0c0b9304f2be7634&fid=4f14cbf22577c6526e30fde70ba7d602-4398309453132&len=576220&path=%2FMix_Desenhos.mp4&range=0-576219&region=japan&sign=BOUTHNFI-F3530edecde9cd71b79378b290804a96-qMU7N4n%252FEZXscSOl17CvCVK4vzA%253D&need_suf=&pmk=1400eb227a9de9acaa0e0c0b9304f2be76340bb256f1000000e72ae0&by=my-streaming
