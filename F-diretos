@@ -12,3 +12,49 @@ https://www.googleapis.com/drive/v3/files/1wqtEe8dgxmk49q-83wie6TOo64A5H-mu?alt=
 https://www.googleapis.com/drive/v3/files/1CnzmXkJ4WI_oy8CjJiCOycJmGbMDvPkJ?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg" , Bloodshot 
 https://s3.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/Bloodshot/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3NFWINCP0Ej8gWNbzKI72AImAg7.jpg" , Sherlock Holmes
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/SherlockHolmes/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yxXh1UyREFEulBNyTBpv0AxlGs5.jpg" , Liga da Justiça VS Jovens Titãs
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/LigaDaJusticaVsJovensTitas/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eu6zEhpt9QVgZk8T4FJCwKCbJkq.jpg" , Liga da Justiça: Guerra
+https://s1.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/LigaDaJusticaGuerra/dub/video.json/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4iwhSy5YbfKHGSFZc6KtBcxLwmt.jpg" , Liga da Justiça: Deuses e Monstros
+https://s1.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/LigaDaJusticaDeusesEMonstros/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gX2Uy1GnIB8bbeP7EfXBUxzGmqY.jpg" , Batman – Ataque ao Arkham
+https://s1.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/BatmanAssaltoArkham/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gQkzmZmZXIvvprfvvPE2EUlk121.jpg" , O Esquadrão Suicida (2021)
+https://s4.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/TheSuicideSquad2021/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ciUTvwB0w2MhFUQjU3VuO9q9gZp.jpg" , Blackout: A Batalha Final
+https://s4.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/Avanpost/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/g7hWnjMdqTYYI78yeCD3moObbRK.jpg" , #Alive
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/Saraitda2020/dub/video.json/index-f2-v1-f1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dqK0aiv6Fb3lIO2L8LRmv2Bb39t.jpg" , Superman: O Homem do Amanhã
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/SupermanHomemDoAmanha/dub/video.json/index-f3.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pHEMqPTvE7eWhEsK7PMHOa6xTTL.jpg" , O Hóspede
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/OHospede2014/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg" , Missão Pijamas
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/MissaoPijamas/dub/video.json/index-f2-v1-f1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg" , Aprendiz de Espiã
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/AprendizDeEspia/dub/video.json/index-f3.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/32hjhlZf8rR9ahxOS26xeIGf95m.jpg" , Refém do Jogo
+https://s4.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/RefemDoJogo/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dC6VpFRn4WUbQ0Jqm8tbZWn2jwM.jpg" , Tem Alguém na sua Casa
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/TheresSomeoneInsideYourHouse/dub/video.json/index-f2-v1-f1-a1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
