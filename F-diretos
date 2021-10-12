@@ -40,8 +40,20 @@ https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/fi
 https://s4.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/RefemDoJogo/dub/video.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dC6VpFRn4WUbQ0Jqm8tbZWn2jwM.jpg" , Tem Alguém na sua Casa
 https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/TheresSomeoneInsideYourHouse/dub/video.json/index-f2-v1-f1-a1.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mhGZkbnK2cEEmEuCvPBbghfkWtV.jpg" , A Luz no Fim do Mundo
+https://s3.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/DescobrindoAVida/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg" , I Am Mother
+https://s3.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/IAmMother/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4Eu0GvET9ZihUJL5L0E9lgDQYzJ.jpg" , Filho das Trevas
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/BrightburnFilhoDasTrevas/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" , Vingadores: Ultimato
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/VingadoresUltimato/dub/video.json/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" , Liga da Justiça: Os Cinco Fatais
+https://s3.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/LigaDaJusticaOsCincoFatais/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sqjcqqnmuVA74J6poTeBxrXuRoJ.jpg" , Oferenda à Tempestade
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/OferendaATempestade/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" , O Dilema das Redes
+https://s2.gripe-ocore-nada-acotece.xyz/hls/I4S1IcHm_qoNW9y8EYUbiw/1634616279/filmes/ODilemaDasRedes/dub/video.json/index-f2-v1-f1-a1.m3u8
 
 
 
