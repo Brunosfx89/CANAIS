@@ -1,8 +1,3 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" , O Hobbit: Uma Jornada Inesperada (2012)
-https://drive.google.com/file/d/16MGKAOoYBRGjPW1kxwOr_Sp6mQ6u9ZDl/view
-
 <item>
 <title>[COLOR limegreen][B]●[/B][/COLOR][COLOR white][B] Pinóquio [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54CC2900A3B0D6893068CBE61E57A01DC8054E00$nome=[COLOR orange][B] Toy Story (1995)[/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
