@@ -1,38 +1,202 @@
 
-
-<item>
-<title>[COLOR green][B]●[/B][/COLOR][COLOR white][B] Ace Ventura [/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/12Am6cPTfRmS_LkzesDMVRHkouUF7J8-h?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 1.Ace.Ventura.Um.Detetive.Diferente.1994 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<link>https://www.googleapis.com/drive/v3/files/127wzq1mfWQGRjSA9re_u4vJjMkwo2qup?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 2.Ace.Ventura.2.Um.Maluco.na.África.1995 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<link>https://www.googleapis.com/drive/v3/files/1256pcOF_r2Y18JpcxNv0YmD-FwHPkRhB?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 3.Filho.do.Ace.Ventura.2009 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaHnZqJvsSddOKYxf4zCj2Ww2hA.jpg/thumbnail>
-<fanart></fanart>
-<info>
-[COLOR green][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] Pet Detective [/COLOR]
-[COLOR green][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 1994 a 2009 [/COLOR]
-[COLOR green][B]GÊNERO:[/B][/COLOR][COLOR white]  Comédia, Aventura  [/COLOR]
-[COLOR green][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
-[COLOR green][B]DURAÇÃO:[/B][/COLOR][COLOR white] 1h 26 Min [/COLOR]
-[COLOR green][B]IMDB:[/B][/COLOR][COLOR white][B] 6.5 [/B][/COLOR]
-[COLOR green][B]SINOPSE:[/B][/COLOR][COLOR white][B] Ace Ventura (Jim Carrey) é um detetive especializado em desvendar crimes envolvendo animais. Apesar de viver cercado de bichos, ele não tem muito trabalho no cotidiano. Entretanto, quando o golfinho do Miami Dolphins, equipe de futebol americano, é sequestrado, Ace finalmente tem um caso a investigar. Atrapalhado como é, ele conduz a investigação de uma maneira bem peculiar.[/B][/COLOR]</info>
-</item>
-
-<item>
-<title>[COLOR green][B]●[/B][/COLOR][COLOR white][B] Ace Ventura [/B][/COLOR]</title>
-<link>https://www.googleapis.com/drive/v3/files/12Am6cPTfRmS_LkzesDMVRHkouUF7J8-h?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 1.Ace.Ventura.Um.Detetive.Diferente.1994 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<link>https://www.googleapis.com/drive/v3/files/127wzq1mfWQGRjSA9re_u4vJjMkwo2qup?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 2.Ace.Ventura.2.Um.Maluco.na.África.1995 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<link>https://www.googleapis.com/drive/v3/files/1256pcOF_r2Y18JpcxNv0YmD-FwHPkRhB?alt=media&key=AIzaSyBFFBr2TiP1L_mHsQifd3gg_HzpITrZadE$nome=[COLOR orange][B] 3.Filho.do.Ace.Ventura.2009 [/B][/COLOR][COLOR cyan] FULLHD[/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaHnZqJvsSddOKYxf4zCj2Ww2hA.jpg/thumbnail>
-<fanart></fanart>
-<info>
-[COLOR green][B]TITULO ORIGINAL:[/B][/COLOR][COLOR white] Pet Detective [/COLOR]
-[COLOR green][B]ANO DE LANÇAMENTO:[/B][/COLOR][COLOR white] 1994 a 2009 [/COLOR]
-[COLOR green][B]GÊNERO:[/B][/COLOR][COLOR white]  Comédia, Aventura  [/COLOR]
-[COLOR green][B]QUALIDADE:[/B][/COLOR][COLOR cyan] FULL HD [/COLOR]
-[COLOR green][B]DURAÇÃO:[/B][/COLOR][COLOR white] 1h 26 Min [/COLOR]
-[COLOR green][B]IMDB:[/B][/COLOR][COLOR white][B] 6.5 [/B][/COLOR]
-[COLOR green][B]SINOPSE:[/B][/COLOR][COLOR white][B] Ace Ventura (Jim Carrey) é um detetive especializado em desvendar crimes envolvendo animais. Apesar de viver cercado de bichos, ele não tem muito trabalho no cotidiano. Entretanto, quando o golfinho do Miami Dolphins, equipe de futebol americano, é sequestrado, Ace finalmente tem um caso a investigar. Atrapalhado como é, ele conduz a investigação de uma maneira bem peculiar.[/B][/COLOR]</info>
-</item>
+#EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCAaaAQEDrTllYR4dtsEsfQa8We.jpg" group-title= "LANÇAMENTOS 2023",Sisu (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explorando o Desconhecido: Robôs Assassinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kStspgmYJUfRarvEmJcsKds8m1o .jpg" group-title="LANÇAMENTOS 2023",Explorando o Desconhecido: Robôs Assassinos (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Pai É um Perigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ms0C7bOBSudBRD4azYWWhC7tjk.jpg " group-title="LANÇAMENTOS 2023",Meu Pai É um Perigo (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/130859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tps40YlcyllmGLAOrAHUez72CQA .jpg" group-title="LANÇAMENTOS 2023",Os Três Mosqueteiros: D'Artagnan (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/130874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta de Spoiler (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VGcGcH8RPIQ6y9UrnNXbzXjMMv.jpg" grupo- title="LANÇAMENTOS 2022",Alerta de Spoiler (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/130875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Coisas para Fazer Antes de Virar Zumbi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdoO9mUU7HW7BNPufNEh6RMGqJj .jpg" group-title="LANÇAMENTOS 2023",100 Coisas para Fazer Antes de Virar Zumbi (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/130892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023) FULL HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg" grupo -title="LANÇAMENTOS 2023",The Flash (2023) FULL HD
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/129034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrados: Venezuela (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tch6Om8GiDF0d2fGdymbltctPrh.jpg" grupo- title="LANÇAMENTOS 2023",Infiltrados: Venezuela (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/129035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Venezuela em Solo Brasileiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdYFiGE3ClOCd4eocV2VQnVRbxj.jpg" group-title="LANÇAMENTOS 2023",A Venezuela em Solo Brasileiro (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/129036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Frente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehjadJ0ESLYdj0NNdcMhmyxKBhp.jpg" título do grupo ="LANÇAMENTOS 2023",De Frente (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/130893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BlackBerry (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" título do grupo ="LANÇAMENTOS 2023",BlackBerry (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blackening (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" grupo- title="LANÇAMENTOS 2023",The Blackening (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warhorse One (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg" grupo- title="LANÇAMENTOS 2023",Warhorse One (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nefarious (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwjWUAajQJPj5aik1tounPguZbz.jpg" título do grupo ="LANÇAMENTOS 2023",Nefarious (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/129001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal Entre Vizinhos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy5VxDXBVIGPxsLiRL1WOqIM2Ps.jpg" grupo- title="LANÇAMENTOS 2022",Natal Entre Vizinhos (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/129009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal em Londres (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EVgNgf4tpBq8Fg3oyRmjTL1ny7.jpg" grupo- title="LANÇAMENTOS 2022",Natal em Londres (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadê O Amarildo? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEZkQRsfcvhOHqI0Aq2rdyBabgD.jpg" grupo -title="LANÇAMENTOS 2023",Cadê O Amarildo? (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Babás Para o Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyjqss9UkCB9J4H3iFCCWZ7kB2P. jpg" group-title="LANÇAMENTOS 2022",Três Babás Para o Natal (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Táticas do Amor 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQTigx0WsCBdxeVZnaH6KqA8YoN.jpg " group-title="LANÇAMENTOS 2023",Táticas do Amor 2 (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Demônio dos Mares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6urr1Bo8R4XEOBJDW0j1fNYWH0.jpg " group-title="LANÇAMENTOS 2023",O Demônio dos Mares (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/128893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4: Baba Yaga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg "group-title="LANÇAMENTOS 2023",John Wick 4: Baba Yaga (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas do Senhor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzXaeFBgwVV1ksuu1s1qXdwLxtY.jpg" grupo- title="LANÇAMENTOS 2022",Criaturas do Senhor (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renfield: Dando Sangue pelo Chefe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vfgvLkoPsE6s4i6dlJ9b2ikG7h.jpg " group-title="LANÇAMENTOS 2023",Renfield: Dando Sangue pelo Chefe (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos por escolha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN8SBoDHYT2zO1x80GhhX605WuX.jpg" group-title="LANÇAMENTOS 2023",Irmãos por escolha (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixados para Trás: O Nicio do Fim (2023)" tvg-logo="https://image.tmdb.org/t/p/ w600_and_h900_bestv2/944LdA7uTyUO5vYc3hvqv5aRFow.jpg" group-title="LANÇAMENTOS 2023",Deixados para Trás: O Nicio do Fim (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Inspeção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFwTKfYA8SP6i4JXwBMusgiEp8X.jpg " group-title="LANÇAMENTOS 2022",A Inspeção (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/951oQ2gBIK3jjp02Dqq3fxm4qYs.jpg" título do grupo ="LANÇAMENTOS 2022",Mulher? (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chef Jack: O Cozinheiro Aventureiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gIHOuxO94QJ6Bg7e1kNuiHdKQ.jpg " group-title="LANÇAMENTOS 2023",Chef Jack: O Cozinheiro Aventureiro (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ano Inesquecível: Outuno (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIco5SOsxCHiLVOIVxKwV3axT1K.jpg" group-title="LANÇAMENTOS 2023",Um Ano Inesquecível: Outuno (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/125995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flamin' Hot: O Sabor que Mudou a História (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2 /swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg" group-title="LANÇAMENTOS 2023",Flamin' Hot: O Sabor que Mudou a História (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Semanas Mágicas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G83nVZiPyFTQ6KBnWhEdKr3mX2.jpg" group-title="LANÇAMENTOS 2023",As Semanas Mágicas (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seja Você Mesma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J4cEAWO5tI4UaSDXU7VVFWXZ4.jpg" grupo- title="LANÇAMENTOS 2023",Seja Você Mesma (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/126005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AINDA: Ainda Sou Michael J. Fox (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ 4iMy2qomj6oQUDNLCIKKIZFhy4x.jpg" group-title="LANÇAMENTOS 2023",STILL: Ainda Sou Michael J. Fox (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/125910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça RWBY: Super-Heróis e Caçadores - Parte 1 (2023)" tvg-logo="https://image.tmdb. org/t/p/w600_and_h900_bestv2/sjBFnG8DpouuWi161KbjbAER235.jpg" group-title="LANÇAMENTOS 2023",Liga da Justiçax RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/119076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Con los años que me quedan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3njsXDhwRJOjvl461mhMxQoru9j .jpg" group-title="LANÇAMENTOS 2022",Con los años que me quedan (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/119073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" grupo -title="LANÇAMENTOS 2023",Pânico VI (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/119062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Rastro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" título do grupo ="LANÇAMENTOS 2023",Sem Rastro (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tensei shitara Slime Datta Ken Filme: Guren no Kizuna-hen (2022)" tvg-logo="https://image.tmdb.org/t/p /w600_and_h900_bestv2/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg" group-title="LANÇAMENTOS 2022",Tensei shitara Slime Datta Ken Filme: Guren no Kizuna-hen (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Piu-Piu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="LANÇAMENTOS 2022",O Rei Piu-Piu (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo de Novo, Mais Uma Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8nXd8L4aVNExq0RKjyl1EtA7A. jpg" group-title="LANÇAMENTOS 2023",Tudo de Novo, Mais Uma Vez (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quasimodo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg" group-title= "LANÇAMENTOS 2023",Quasimodo (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso: Vítimas da Herança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWFcCb6UEnToFC7p2PnoNZhF7Fv .jpg" group-title="LANÇAMENTOS 2022",Jogo Perigoso: Vítimas da Herança (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guia de Viagem para o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg " group-title="LANÇAMENTOS 2023",Guia de Viagem para o Amor (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" grupo -title="LANÇAMENTOS 2023",Ghosted: Sem Resposta (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encurralados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnSqnhE3DwfvgxaGeqp3QC4VjoE.jpg" group-title= "LANÇAMENTOS 2023",Encurralados (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigi & Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" grupo- title="LANÇAMENTOS 2022",Gigi & Nate (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçador de Tormentas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0UOstAfVWAK5FazCMfdWdkM38i.jpg" group-title="LANÇAMENTOS 2023",Caçador de Tormentas (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oferenda ao Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg" group-title="LANÇAMENTOS 2022",Oferenda ao Demônio (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Ondas da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK3Tv64YloaUXBqa5Uvfy8cEDvR.jpg" group-title="LANÇAMENTOS 2023",Nas Ondas da Fé (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers: Agora e Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg " group-title="LANÇAMENTOS 2023",Power Rangers: Agora e Sempre (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Inesperado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq3bh4aq5c3U0xAqMWXeDRnypCE.jpg" título do grupo ="LANÇAMENTOS 2022",Amor Inesperado (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Encontro Mais Longo de Todos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzusJE1LqhG06S92IdPYlTu8N1p.jpg " group-title="LANÇAMENTOS 2023",O Encontro Mais Longo de Todos (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tori et Lokita (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqotkLiIdKmnix881XNtQTfpSos.jpg" grupo -title="LANÇAMENTOS 2022",Tori et Lokita (2022) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/112610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Wanna Dance with Somebody - A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/ w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" group-title="LANÇAMENTOS 2022",I Wanna Dance with Somebody - A História de Whitney Houston (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/112611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" grupo -title="LANÇAMENTOS 2023",Um Amor para Duas (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/112601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Todas as Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg" grupo -title="LANÇAMENTOS 2023",Em Todas as Partes (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/112602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" grupo- title="LANÇAMENTOS 2022",Re/Member (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/112603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brian e Charles (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xe0MYtsoitXJgsKpY4GgB02lbx.jpg" grupo- title="LANÇAMENTOS 2022",Brian e Charles (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Seus Sonhos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9Yel6jjlNe1O3xBnrndZDL3nC.jpg" grupo- title="LANÇAMENTOS 2023",Em Seus Sonhos (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Vai Lembrar Meu Nome (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjZ8fmIRR4RDHSRsvobspaY1mi9.jpg" group-title="LANÇAMENTOS 2022",Você Vai Lembrar Meu Nome (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor dá Voltas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fynvbvRZzkIWa2Q8h9Gg5w6FgzD.jpg" group-title="LANÇAMENTOS 2022",O Amor dá Voltas (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/118015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Reino: Sete Reis Devem Morrer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs .jpg" group-title="LANÇAMENTOS 2023",O Último Reino: Sete Reis Devem Morrer (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrosão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group- title="LANÇAMENTOS 2023",Corrosão (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assombrosas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwdK2tzASFRaL2lFPU6Pd4Nqno4.jpg" group-title= "LANÇAMENTOS 2023",Assombrosas (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" grupo- title="LANÇAMENTOS 2023",Rainhas em Fuga (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Filho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diSCVAovDgGGk5QJzmU0rPXoPRB.jpg" título do grupo ="LANÇAMENTOS 2022",Um Filho (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serial Kelly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHmlTaUrrMdh0m9vG5ApNwIWIPd.jpg" título do grupo ="LANÇAMENTOS 2022",Serial Kelly (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" grupo -title="LANÇAMENTOS 2023",Raquel 1:1 (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN5S3LlDHT0ZsUst58K15IWR73o.jpg" group-title= "LANÇAMENTOS 2022", Bandido (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Tempos de Polarização (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ 5KL3ewJAgjoXrThUBJfQadGq6B.jpg" group-title="LANÇAMENTOS 2022",Amor em Tempos de Polarização (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nome de código Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YLv9S84WyPZ5uxty989Duhzi5u.jpg" grupo- title="LANÇAMENTOS 2022",Code Name Banshee (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Rédea Curta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x63Tft54YGgOb6jWKMRQFsm3zU2.jpg" group-title="LANÇAMENTOS 2022",Na Rédea Curta (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Pequena Mentira Branca (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzv44eDoY0R3Rzmv6zmJW6GRQzD.jpg" group-title="LANÇAMENTOS 2023",A Little White Lie (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fome de Sucesso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KoIbKQIweYAX3VejtLlqWXdp6b.jpg" grupo- title="LANÇAMENTOS 2023",Fome de Sucesso (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Príncipe Andrew: Banido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB0UIEsN448Q6jykG1UtK0t8naX.jpg" grupo -title="LANÇAMENTOS 2022",Príncipe Andrew: Banido (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Partido Doador (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" grupo -title="LANÇAMENTOS 2023",The Donor Party (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquema de Risco: Operação Fortune (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2 /fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg" group-title="LANÇAMENTOS 2023",Esquema de Risco: Operação Fortune (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" grupo- title="LANÇAMENTOS 2023",Meu Amigo Lutcha (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aaahh Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" título do grupo ="LANÇAMENTOS 2023",Aaahh Belinda (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="LANÇAMENTOS 2023",Shazam! Fúria dos Deuses (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" group-title="LANÇAMENTOS 2023",65: Ameaça Pré-Histórica (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Visitante (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvHbrZ386vZDqFQVMMxWtOJ1ZQC.jpg" título do grupo ="LANÇAMENTOS 2022",O Visitante (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Reis da Rua Mulberry: Que Rainha o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2 /3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg" group-title="LANÇAMENTOS 2023",Os Reis da Rua Mulberry: Que Reine o Amor (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Till: A Busca por Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogb70EGzxqdbH5p8mmWJ5CEYSp3 .jpg" group-title="LANÇAMENTOS 2022",Till: A Busca por Justiça (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palmeiras e linhas de energia (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWiSF5VbFeeWZmx7rGgQCsFsLdW.jpg " group-title="LANÇAMENTOS 2023",Palmeiras e Linhas de Energia (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skinamarink: Canção de Ninar (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2 /o942912KFh89SGhqWuKXuT0SXzN.jpg" group-title="LANÇAMENTOS 2023",Skinamarink: Canção de Ninar (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" group-title= "LANÇAMENTOS 2022", Breaking (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/117183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title= "LANÇAMENTOS 2023", Zumbido (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olavo Tem Razão - O Filme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23znVCWbJ5HgthMzVxGHhz4PxYe .jpg" group-title="LANÇAMENTOS 2023",Olavo Tem Razão - O Filme (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Natal na Suiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u23pUSkCShBcSrPq0gG2SGN3xX0.jpg " group-title="LANÇAMENTOS 2022",Um Natal na Suiça (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh: Sangue e Mel (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJZagdWBtpDUpCKHzrVwJRMKJL6. jpg" group-title="LANÇAMENTOS 2023",Ursinho Pooh: Sangue e Mel (2023) LEG
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/ w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="LANÇAMENTOS 2023",Batman: A Perdição Chegou a Gotham (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Vermelho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ibfhe4P7rhmn3lrPhOZzIJHA2B.jpg" grupo -title="LANÇAMENTOS 2022",One Piece: Red (2022)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title= "LANÇAMENTOS 2023",Tetris (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mistério em Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="LANÇAMENTOS 2023",Mistério em Paris (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MQoYvEIvsCZMpTuBlWfbaliJes.jpg" título do grupo ="LANÇAMENTOS 2023",Kill Boksoon (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" título do grupo ="LANÇAMENTOS 2023",Creed III (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Pacto de Amizade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" grupo -title="LANÇAMENTOS 2023",Um Pacto de Amizade (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desapega! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg" título do grupo ="LANÇAMENTOS 2023",Desapega! (2023)
+http://maincineprime.xyz:8080/movie/cprimemain-qMzEPwIUqf/bQvQrjTzHg/116115.mp4
